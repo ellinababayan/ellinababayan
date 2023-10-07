@@ -1,7 +1,8 @@
-<h2 align="center">Hi there 👋</h2>
-<h1 align="center">I'm Ellina Babaian</h1>
-<h3 align="center">A Front-End React Developer</h3>
+<h2 align="left">Hi there 👋</h2>
+<h1 align="left">I'm Ellina Babaian</h1>
+<h3 align="left">A Front-End React Developer</h3>
 
+<img align="right" src="https://storage.googleapis.com/pai-images/8359debc235743fb9c724635daf9b4c3.jpeg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
