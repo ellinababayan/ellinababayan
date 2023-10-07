@@ -1,16 +1,16 @@
 <div>
   <img align="right" src="https://storage.googleapis.com/pai-images/8359debc235743fb9c724635daf9b4c3.jpeg" alt="banner" width="40%">
 
-  ## Hi there 👋
-  # I'm Ellina Babaian
-  ### A Front End Developer
+  ***Hi there 👋***
+  **I'm Ellina Babaian**
+  **A Front End Developer**
 
 **Connect with me:**
   <p>
     <a href="https://www.linkedin.com/in/ellina-babaian-302645267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellinababayn" height="30" width="40" /></a>
   </p>
 
-  <h3>Languages and Tools:</h3>
+  **Languages and Tools:**
   <p>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
