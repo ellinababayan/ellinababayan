@@ -5,7 +5,7 @@
   # I'm Ellina Babaian
   ### A Front End Developer
 
-  <h3>Connect with me:</h3>
+**Connect with me:**
   <p>
     <a href="https://www.linkedin.com/in/ellina-babaian-302645267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellinababayn" height="30" width="40" /></a>
   </p>
