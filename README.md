@@ -1,8 +1,8 @@
-<img align="right" src="https://storage.googleapis.com/pai-images/8359debc235743fb9c724635daf9b4c3.jpeg" alt="banner" width="700">
+<img align="right" src="https://storage.googleapis.com/pai-images/8359debc235743fb9c724635daf9b4c3.jpeg" alt="banner" width="500">
 
-<h2 align="left">Hi there 👋</h2>
+<h5 align="left">Hi there 👋</h2>
 <h1 align="left">I'm Ellina Babaian</h1>
-<h3 align="left">A Front-End React Developer</h3>
+<h3 align="left">A Front End Developer</h3>
 
 
 
