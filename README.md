@@ -2,14 +2,11 @@
   <img align="right" src="https://storage.googleapis.com/pai-images/8359debc235743fb9c724635daf9b4c3.jpeg" alt="banner" width="40%">
 
   *Hi there 👋*
-  
- <span style="font-size: 40px;">I'm Ellina Babaian</span>
- 
-<span style="font-size: 40px;">A Front End Developer</span>
 
-  \# I'm Ellina Babaian
+  **I'm Ellina Babaian**
   
   **A Front End Developer**
+
 
 **Connect with me:**
   <p>
