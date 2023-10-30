@@ -5,7 +5,7 @@
 
   **I'm Ellina Babaian**
   
-  **A Front End Developer*
+  **A Front End Developer**
 
 
 **Connect with me:**
