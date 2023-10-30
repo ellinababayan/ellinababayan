@@ -3,7 +3,7 @@
 
   *Hi there 👋* 
 
-  **I'm Ellina Babaian*
+  **I'm Ellina Babaian**
   
   **A Front End Developer**
 
